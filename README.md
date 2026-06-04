@@ -24,23 +24,14 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td valign="top" width="55%">
-      <h3>🔭 Professional Profile</h3>
-      <p>I am a final-year B.Tech CSE student at Poornima University and a <strong>Software Developer Intern at Zentek Infosoft</strong>. I specialize in shipping production-ready full-stack web applications with the MERN stack and relational databases. I focus on writing clean, optimized backend code, designing scalable REST APIs, and tuning database performance.</p>
-      <ul>
-        <li>🚀 <strong>Currently working on:</strong> Production-grade REST APIs, JWT authentication, role-based access control, and query optimizations in PostgreSQL and MongoDB.</li>
-        <li>🧠 <strong>Currently learning:</strong> Advanced backend architecture patterns, Java multi-threading, concurrency models, and system design.</li>
-        <li>🤝 <strong>Looking to collaborate on:</strong> Open-source full-stack MERN stack projects or scalable web applications.</li>
-        <li>⚡ <strong>Fun fact:</strong> I have solved over 250+ challenges in Data Structures & Algorithms (DSA) and love writing high-performance code.</li>
-      </ul>
-    </td>
-    <td valign="top" width="45%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=KINSHUKHERE&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+## 🔭 Professional Profile
+
+I am a final-year B.Tech CSE student at Poornima University and a **Software Developer Intern at Zentek Infosoft**. I specialize in shipping production-ready full-stack web applications with the MERN stack and relational databases. I focus on writing clean, optimized backend code, designing scalable REST APIs, and tuning database performance.
+
+* 🚀 **Currently working on:** Production-grade REST APIs, JWT authentication, role-based access control, and query optimizations in PostgreSQL and MongoDB.
+* 🧠 **Currently learning:** Advanced backend architecture patterns, Java multi-threading, concurrency models, and system design.
+* 🤝 **Looking to collaborate on:** Open-source full-stack MERN stack projects or scalable web applications.
+* ⚡ **Fun fact:** I have solved over 250+ challenges in Data Structures & Algorithms (DSA) and love writing high-performance code.
 
 ---
 
@@ -88,15 +79,24 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KINSHUKHERE&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak Stats" height="185px"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KINSHUKHERE&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="Top Languages" height="185px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KINSHUKHERE&amp;bg_color=0d1117&amp;color=0d9488&amp;line=0d9488&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=KINSHUKHERE&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true" height="195px" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=KINSHUKHERE&amp;theme=dark&amp;hide_border=false" height="195px" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KINSHUKHERE&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" height="195px" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KINSHUKHERE&amp;bg_color=0d1117&amp;color=0d9488&amp;line=0d9488&amp;point=ffffff&amp;area=true&amp;hide_border=true" height="195px" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 
