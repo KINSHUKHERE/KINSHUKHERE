@@ -1,7 +1,7 @@
 # 🌌 Kinshuk Khandelwal's Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=0D9488&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Hi+there%2C+I+am+Kinshuk+Khandelwal!+%F0%9F%91%8B;Software+Developer+Intern;MERN+Stack+Developer;DSA+Problem+Solver;System+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=0D9488&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Hi+there%2C+I+am+Kinshuk+Khandelwal!+%F0%9F%91%8B;Software+Developer+Intern;MERN+Stack+Developer;DSA+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
