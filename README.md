@@ -1,7 +1,9 @@
-# Hi there, I'm Kinshuk Khandelwal! 👋
+# 🌌 Kinshuk Khandelwal's Profile
 
 <p align="center">
-  <strong>Software Engineer & MERN Stack Developer</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Kinshuk!+👋;Software+Developer+Intern;MERN+Stack+Developer;DSA+Problem+Solver;System+Design+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -22,16 +24,29 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KINSHUKHERE&theme=darkhub&no-background=true&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
+
 ---
 
-## 🔭 Professional Profile
-
-I am a final-year B.Tech CSE student at Poornima University and a **Software Developer Intern at Zentek Infosoft**. I specialize in shipping production-ready full-stack web applications with the MERN stack and relational databases. I focus on writing clean, optimized backend code, designing scalable REST APIs, and tuning database performance.
-
-* 🚀 **Currently working on:** Production-grade REST APIs, JWT authentication, role-based access control, and query optimizations in PostgreSQL and MongoDB.
-* 🧠 **Currently learning:** Advanced backend architecture patterns, Java multi-threading, concurrency models, and system design.
-* 🤝 **Looking to collaborate on:** Open-source full-stack MERN stack projects or scalable web applications.
-* ⚡ **Fun fact:** I have solved over 250+ challenges in Data Structures & Algorithms (DSA) and love writing high-performance code.
+<table border="0">
+  <tr>
+    <td valign="top" width="55%">
+      <h3>🔭 Professional Profile</h3>
+      <p>I am a final-year B.Tech CSE student at Poornima University and a <strong>Software Developer Intern at Zentek Infosoft</strong>. I specialize in shipping production-ready full-stack web applications with the MERN stack and relational databases. I focus on writing clean, optimized backend code, designing scalable REST APIs, and tuning database performance.</p>
+      <ul>
+        <li>🚀 <strong>Currently working on:</strong> Production-grade REST APIs, JWT authentication, role-based access control, and query optimizations in PostgreSQL and MongoDB.</li>
+        <li>🧠 <strong>Currently learning:</strong> Advanced backend architecture patterns, Java multi-threading, concurrency models, and system design.</li>
+        <li>🤝 <strong>Looking to collaborate on:</strong> Open-source full-stack MERN stack projects or scalable web applications.</li>
+        <li>⚡ <strong>Fun fact:</strong> I have solved over 250+ challenges in Data Structures & Algorithms (DSA) and love writing high-performance code.</li>
+      </ul>
+    </td>
+    <td valign="center" width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Gifs/Desktop.gif" width="100%" alt="Developer coding illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,16 +92,18 @@ I am a final-year B.Tech CSE student at Poornima University and a **Software Dev
 
 ---
 
-## 📊 GitHub Performance Metrics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KINSHUKHERE&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=KINSHUKHERE&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="185px"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=KINSHUKHERE&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=KINSHUKHERE&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="185px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KINSHUKHERE&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KINSHUKHERE&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="185px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KINSHUKHERE&bg_color=0d1117&color=0d9488&line=0d9488&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" height="185px" />
 </p>
 
 ---
