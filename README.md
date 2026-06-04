@@ -54,7 +54,6 @@ I am a final-year B.Tech CSE student at Poornima University and a **Software Dev
       <h3>⚙️ Backend & Databases</h3>
       <a href="#"><img src="https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&amp;logo=express&amp;logoColor=61DAFB" alt="Express.js" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" /></a>
       <br />
       <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" /></a>
       <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
