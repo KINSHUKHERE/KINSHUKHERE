@@ -68,6 +68,8 @@ I am a final-year B.Tech CSE student at Poornima University and a **Software Dev
       <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&amp;logo=netlify&amp;logoColor=white" alt="Netlify" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&amp;logo=render&amp;logoColor=white" alt="Render" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" /></a>
       <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code" /></a>
     </td>
