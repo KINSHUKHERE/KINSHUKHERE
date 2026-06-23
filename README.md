@@ -26,9 +26,9 @@
 
 ## 🔭 Professional Profile
 
-I am a final-year B.Tech CSE student at Poornima University and a **Software Developer Intern at Zentek Infosoft**. I specialize in shipping production-ready full-stack web applications with the MERN stack and relational databases. I focus on writing clean, optimized backend code, designing scalable REST APIs, and tuning database performance.
+I am a final-year B.Tech CSE student at Poornima University and a **Software Developer Intern at Zentek Infosoft**. I specialize in shipping production-ready full-stack web applications with the MERN stack. I focus on writing clean, optimized backend code, designing scalable REST APIs, and tuning database performance.
 
-* 🚀 **Currently working on:** Production-grade REST APIs, JWT authentication, role-based access control, and query optimizations in PostgreSQL and MongoDB.
+* 🚀 **Currently working on:** Production-grade REST APIs, JWT authentication, role-based access control, and query optimizations in MongoDB.
 * 🧠 **Currently learning:** Advanced backend architecture patterns, Java multi-threading, concurrency models, and system design.
 * 🤝 **Looking to collaborate on:** Open-source full-stack MERN stack projects or scalable web applications.
 * ⚡ **Fun fact:** I have solved over 250+ challenges in Data Structures & Algorithms (DSA) and love writing high-performance code.
@@ -56,8 +56,6 @@ I am a final-year B.Tech CSE student at Poornima University and a **Software Dev
       <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&amp;logo=express&amp;logoColor=61DAFB" alt="Express.js" /></a>
       <br />
       <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" /></a>
     </td>
   </tr>
